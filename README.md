@@ -29,8 +29,6 @@ Apart from coding, you'll often find me enjoying a good game of cricket 🏏 or 
 |---------|-------------|-------------|
 | **Slotdio** | A platform for booking slots seamlessly | [Live Demo](https://slotdio.vercel.app) |
 | **SkillSprint** | Learn & upskill with interactive platform | [Live Demo](https://skillsprint-frontend-hmxp.onrender.com) |
-| **Portfolio** | My personal portfolio showcasing work | [View Repo](https://github.com/NikhilDhaliya/Portfolio) |
-| **ELEGANT E-commerce** | Full-stack ecommerce web app | [View Repo](https://github.com/NikhilDhaliya/ELEGANT---Ecommerce) |
 
 ---
 

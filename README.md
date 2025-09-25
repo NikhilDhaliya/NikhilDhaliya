@@ -8,22 +8,22 @@ Apart from coding, you'll often find me enjoying a good game of cricket 🏏 or 
 
 ---
 
-## 🔥 Tech Stack  
-**Languages**: C++, JavaScript, Rust (learning)  
-**Frameworks**: React, Next.js, Node.js, Express  
-**Database**: MongoDB  
-**Tools**: Linux, Git, Docker  
+## Tech Stack  
+**Languages**: C++, JavaScript. 
+**Frameworks**: React, Next.js, Node.js, Express js  
+**Database**: MongoDB, PostgreSQL
+**Tools**: Linux, Git, Docker, Prisma 
 
 ---
 
-## 📊 GitHub Analytics  
+## GitHub Analytics  
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilDhaliya&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilDhaliya&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NikhilDhaliya&theme=radical)  
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects  
 
 | Project | Description | Demo / Repo |
 |---------|-------------|-------------|

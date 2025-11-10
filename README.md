@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhil Dhaliya👋
+# Hi there, I'm Nikhil Dhaliya.
 
 ## 🚀 About Me  
 I'm an engineering student who loves turning ideas into full-stack apps.  

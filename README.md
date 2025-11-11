@@ -1,10 +1,10 @@
 # Hi there, I'm Nikhil Dhaliya.
 
-## 🚀 About Me  
+## About Me  
 I'm an engineering student who loves turning ideas into full-stack apps.  
 Currently, I'm exploring **open source contributions** and diving deeper into **Web3**.  
 
-Apart from coding, you'll often find me enjoying a good game of cricket 🏏 or sipping chai ☕.  
+Apart from coding, you'll often find me enjoying a good game of cricket or sipping chai.  
 
 ---
 

@@ -31,7 +31,7 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 |---------|-------------|---------|
 | **GetVik** | A real creator marketplace for India — govt-registered and built for launch. Sell digital products in INR with UPI and fast payouts. | https://getvik.live |
 | **Slotdio** | A platform for booking slots seamlessly | https://slotdio.vercel.app |
-| **SkillSprint** | Learn & upskill with an interactive platform | https://skillsprint-frontend-hmxp.onrender.com |
+| **SkillSprint** | Hackathon & Team Building Platform | https://skillsprint-frontend-hmxp.onrender.com |
 | **And many more…** <br> [Check my portfolio →](https://nikhildhaliya.onrender.com) | Smaller tools, experiments, and full-stack builds I've created along the way | — |
 
 

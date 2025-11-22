@@ -8,11 +8,27 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 
 ---
 
-## Tech Stack  
-**Languages**: C++, JavaScript. 
-**Frameworks**: React, Next.js, Node.js, Express js.
-**Database**: MongoDB, PostgreSQL.
-**Tools**: Linux, Git, Docker, Prisma, Docker.
+## Tech Stack
+
+### **Languages**
+- C++  
+- JavaScript  
+
+### **Frameworks**
+- React  
+- Next.js  
+- Node.js  
+- Express.js  
+
+### **Databases**
+- MongoDB  
+- PostgreSQL  
+
+### **Tools**
+- Linux  
+- Git  
+- Docker  
+- Prisma  
 
 ---
 
@@ -22,8 +38,6 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NikhilDhaliya&theme=radical)  
 
 ---
-
-## Featured Projects  
 
 ## Featured Projects  
 

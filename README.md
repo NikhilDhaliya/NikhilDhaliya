@@ -1,8 +1,8 @@
-# Hi there, I'm Nikhil Dhaliya.
+# Hi, I'm Nikhil Dhaliya.
 
 ## About Me  
 I'm an engineering student who loves turning ideas into full-stack apps.  
-Currently, I'm exploring **open source contributions** and diving deeper into **Web3**.  
+Currently, I'm exploring **open source contributions** and diving deeper into **DevOps**.  
 
 Apart from coding, you'll often find me enjoying a good game of cricket or sipping chai.  
 
@@ -10,9 +10,9 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 
 ## Tech Stack  
 **Languages**: C++, JavaScript. 
-**Frameworks**: React, Next.js, Node.js, Express js  
-**Database**: MongoDB, PostgreSQL
-**Tools**: Linux, Git, Docker, Prisma 
+**Frameworks**: React, Next.js, Node.js, Express js.
+**Database**: MongoDB, PostgreSQL.
+**Tools**: Linux, Git, Docker, Prisma, Docker.
 
 ---
 
@@ -25,10 +25,12 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 
 ## Featured Projects  
 
-| Project | Description | Demo / Repo |
+| Project | Description |
 |---------|-------------|-------------|
-| **Slotdio** | A platform for booking slots seamlessly | [Live Demo](https://slotdio.vercel.app) |
-| **SkillSprint** | Learn & upskill with interactive platform | [Live Demo](https://skillsprint-frontend-hmxp.onrender.com) |
+| **GetVik** | A real creator marketplace for India — govt-registered and built for launch. Sell digital products in INR with UPI and fast payouts. | [Live at](https://getvik.live) |
+| **Slotdio** | A platform for booking slots seamlessly | [Live at](https://slotdio.vercel.app) |
+| **SkillSprint** | Learn & upskill with an interactive platform | [Live at](https://skillsprint-frontend-hmxp.onrender.com) |
+| **And many more… <br> [Check my portfolio →](https://nikhildhaliya.onrender.com)** | Smaller tools, experiments, and full-stack builds I've created along the way | — |
 
 ---
 
@@ -38,4 +40,4 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 
 ---
 
-✨ Thanks for stopping by — let’s build something amazing together!  
+Thanks for stopping by, let’s build something amazing together!  

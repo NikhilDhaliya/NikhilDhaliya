@@ -21,9 +21,12 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 ---
 
 ## GitHub Analytics  
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilDhaliya&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilDhaliya&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=NikhilDhaliya&theme=radical)  
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilDhaliya&show_icons=true&theme=radical&v=2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilDhaliya&layout=compact&theme=radical&v=2)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=NikhilDhaliya&theme=radical&v=2)
+
 
 ---
 

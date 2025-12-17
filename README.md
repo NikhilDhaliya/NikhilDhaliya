@@ -34,7 +34,7 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 
 | Project | Description | Live at |
 |---------|-------------|---------|
-| **GetVik** | A real creator marketplace for India — govt-registered and built for launch. Sell digital products in INR with UPI and fast payouts. | https://getvik.live |
+| **GetVik** | A real creator marketplace for India — govt-registered and built for launch. Sell digital products in INR with UPI and fast payouts. | https://getvik.com |
 | **Slotdio** | A platform for booking slots seamlessly | https://slotdio.vercel.app |
 | **SkillSprint** | Hackathon & Team Building Platform | https://skillsprint-frontend-hmxp.onrender.com |
 | **And many more…** <br> [Check my portfolio →](https://nikhildhaliya.onrender.com) | Smaller tools, experiments, and full-stack builds I've created along the way | — |
@@ -44,7 +44,7 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 
 ## 🌐 Connect With Me  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel)](https://nikhildhaliya.onrender.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-dhaliya-798071295/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhildhaliya/)  
 
 ---
 

@@ -1,7 +1,7 @@
 # Hi, I'm Nikhil Dhaliya.
 
 ## About Me  
-I'm an engineering student who loves turning ideas into full-stack apps.  
+Building What I Wish Existed! 
 Currently, I'm exploring **open source contributions** and diving deeper into **DevOps**.  
 
 Apart from coding, you'll often find me enjoying a good game of cricket or sipping chai.  
@@ -25,7 +25,7 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 | Project | Description | Live at |
 |---------|-------------|---------|
 | **GetVik** | A real creator marketplace for India — govt-registered and built for launch. Sell digital products in INR with UPI and fast payouts. | https://getvik.com |
-| **Slotdio** | A platform for booking slots seamlessly | https://slotdio.vercel.app |
+| **GrindShame** | A platform to track developer progress with Github and codeforces progress. Roast you if you fail | https://grindshame.dev |
 | **SkillSprint** | Hackathon & Team Building Platform | https://skillsprint-frontend-hmxp.onrender.com |
 | **And many more…** <br> [Check my portfolio →](https://nikhildhaliya.onrender.com) | Smaller tools, experiments, and full-stack builds I've created along the way | — |
 
@@ -38,4 +38,4 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 
 ---
 
-Thanks for stopping by, let’s build something amazing together!  
+Thanks!!

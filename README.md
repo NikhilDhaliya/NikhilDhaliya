@@ -12,10 +12,10 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
 
 | Category     | Technologies |
 |--------------|--------------|
-| **Languages** | C++, JavaScript |
+| **Languages** | C++, JavaScript, Typescript|
 | **Frameworks** | React, Next.js, Node.js, Express.js |
 | **Databases** | MongoDB, PostgreSQL |
-| **Tools** | Linux, Git, Docker, Prisma |
+| **Tools** | Linux, Git, Docker, Prisma, n8n, GCR |
  
 
 ---

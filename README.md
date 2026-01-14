@@ -19,18 +19,6 @@ Apart from coding, you'll often find me enjoying a good game of cricket or sippi
  
 
 ---
-## Github Analytics
-
-## GitHub Analytics  
-
-![Nikhil's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NikhilDhaliya&show_icons=true&theme=radical&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NikhilDhaliya&layout=compact&theme=radical&cache_seconds=86400)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NikhilDhaliya&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-
----
 
 ## Featured Projects  
 

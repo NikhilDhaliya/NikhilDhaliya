@@ -26,9 +26,9 @@ A system design generator that converts raw ideas into infrastructure blueprints
 * **Editor:** Includes a manual builder for custom adjustments and fine-tuning.
 * **Registry:** Features a public template library allowing users to publish and share architectural patterns.
 
-### GetVik
+### GetVik (FOUNDER)
 **Status:** Live | **Type:** Digital Marketplace
-A government-registered creator marketplace for India.
+A government-registered creator marketplace for India with real users.
 * **Core:** Facilitates the sale of digital assets with instant payout settlements.
 * **Tech:** Integrated UPI payment gateways for seamless INR transactions.
 * [Visit GetVik.com](https://getvik.com)
@@ -46,10 +46,9 @@ An accountability platform that gamifies coding consistency.
 
 ## Statistics
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhildhaliya&show_icons=true&theme=graywhite&hide_border=true)
+![Nikhil's Stats](https://github-readme-streak-stats.herokuapp.com/?user=nikhildhaliya&theme=graywhite&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildhaliya&layout=compact&theme=graywhite&hide_border=true)
-
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhildhaliya&theme=graywhite)
 ---
 
 ## Connect

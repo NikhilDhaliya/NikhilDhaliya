@@ -1,41 +1,59 @@
-# Hi, I'm Nikhil Dhaliya.
+# Nikhil Dhaliya
 
-## About Me  
-Building What I Wish Existed! 
-Currently, I'm exploring **open source contributions** and diving deeper into **DevOps**.  
+**Full Stack Engineer**
+Focusing on scalable web applications, DevOps infrastructure, and open source.
 
-Apart from coding, you'll often find me enjoying a good game of cricket or sipping chai.  
-
----
-
-## Tech Stack
-
-| Category     | Technologies |
-|--------------|--------------|
-| **Languages** | C++, JavaScript, Typescript|
-| **Frameworks** | React, Next.js, Node.js, Express.js |
-| **Databases** | MongoDB, PostgreSQL |
-| **Tools** | Linux, Git, Docker, Prisma, n8n, GCR |
- 
+I specialize in the **Next.js** and **Node.js** ecosystem, with a growing focus on containerization and system architecture.
 
 ---
 
-## Featured Projects  
+## Technical Stack
 
-| Project | Description | Live at |
-|---------|-------------|---------|
-| **GetVik** | A real creator marketplace for India — govt-registered and built for launch. Sell digital products in INR with UPI and fast payouts. | https://getvik.com |
-| **GrindShame** | A platform to track developer progress with Github and codeforces progress. Roast you if you fail | https://grindshame.dev |
-| **SkillSprint** | Hackathon & Team Building Platform | https://skillsprint-frontend-hmxp.onrender.com |
-| **And many more…** <br> [Check my portfolio →](https://nikhildhaliya.onrender.com) | Smaller tools, experiments, and full-stack builds I've created along the way | — |
-
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend & Systems** | Node.js, Express.js, C++, Docker, Linux, GCR |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Data & Workflow** | PostgreSQL, MongoDB, Prisma, n8n, Git |
 
 ---
 
-## 🌐 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel)](https://nikhildhaliya.onrender.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhildhaliya/)  
+## Projects
+
+### Architect AI
+**Status:** In Development | **Type:** Engineering Tool
+A system design generator that converts raw ideas into infrastructure blueprints.
+* **AI Engine:** Automates the creation of system architecture diagrams from natural language inputs.
+* **Editor:** Includes a manual builder for custom adjustments and fine-tuning.
+* **Registry:** Features a public template library allowing users to publish and share architectural patterns.
+
+### GetVik
+**Status:** Live | **Type:** Digital Marketplace
+A government-registered creator marketplace for India.
+* **Core:** Facilitates the sale of digital assets with instant payout settlements.
+* **Tech:** Integrated UPI payment gateways for seamless INR transactions.
+* [Visit GetVik.com](https://getvik.com)
+
+### GrindShame
+**Status:** Live | **Type:** Developer Productivity
+An accountability platform that gamifies coding consistency.
+* **Core:** Tracks user activity via **GitHub** and **Codeforces** APIs.
+* **Mechanism:** Uses social pressure ("roasts") to penalize inactivity streaks.
+* [Visit GrindShame.dev](https://grindshame.dev)
+
+> **View all projects:** [nikhildhaliya.onrender.com](https://nikhildhaliya.onrender.com)
 
 ---
 
-Thanks!!
+## Statistics
+
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhildhaliya&show_icons=true&theme=graywhite&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildhaliya&layout=compact&theme=graywhite&hide_border=true)
+
+---
+
+## Connect
+
+* [Portfolio](https://nikhildhaliya.onrender.com)
+* [LinkedIn](https://www.linkedin.com/in/nikhildhaliya/)
+* [Email](mailto:your-email@example.com)

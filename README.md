@@ -46,8 +46,6 @@ An accountability platform that gamifies coding consistency.
 
 ## Statistics
 
-![Nikhil's Stats](https://github-readme-streak-stats.herokuapp.com/?user=nikhildhaliya&theme=graywhite&hide_border=true)
-
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhildhaliya&theme=graywhite)
 ---
 

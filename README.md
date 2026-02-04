@@ -19,12 +19,13 @@ I specialize in the **Next.js** and **Node.js** ecosystem, with a growing focus 
 
 ## Projects
 
-### Architect AI
-**Status:** In Development | **Type:** Engineering Tool
+### Ideatosystem
+**Status:** In Development | **Type:** System Design tool.
 A system design generator that converts raw ideas into infrastructure blueprints.
 * **AI Engine:** Automates the creation of system architecture diagrams from natural language inputs.
 * **Editor:** Includes a manual builder for custom adjustments and fine-tuning.
 * **Registry:** Features a public template library allowing users to publish and share architectural patterns.
+* * [Visit ideatosystem.in](https://ideatosystem.in)
 
 ### GetVik (FOUNDER)
 **Status:** Live | **Type:** Digital Marketplace

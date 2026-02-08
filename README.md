@@ -47,7 +47,17 @@ An accountability platform that gamifies coding consistency.
 
 ## Statistics
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhildhaliya&theme=graywhite)
+![GitHub Streak](https://streak-stats.demolab.com?user=nikhildhaliya&theme=dark&hide_border=false)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhildhaliya&theme=graywhite)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhildhaliya&theme=graywhite)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhildhaliya&theme=graywhite)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhildhaliya&theme=graywhite)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhildhaliya&theme=graywhite&utcOffset=5.5)
 ---
 
 ## Connect

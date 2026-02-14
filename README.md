@@ -57,4 +57,4 @@ An accountability platform that gamifies coding consistency.
 
 * [Portfolio](https://nikhildhaliya.onrender.com)
 * [LinkedIn](https://www.linkedin.com/in/nikhildhaliya/)
-* [Email](mailto:your-email@example.com)
+* [Email](mailto:nikhil11754@example.com)

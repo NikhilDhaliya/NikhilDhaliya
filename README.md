@@ -11,7 +11,7 @@ I specialize in the **Next.js** and **Node.js** ecosystem, with a growing focus 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend & Systems** | Node.js, Express.js, C++, Docker, Linux, GCR |
+| **Backend & Systems** | Node.js, Express.js, C++, Docker, Linux, GCR, Azure |
 | **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
 | **Data & Workflow** | PostgreSQL, MongoDB, Prisma, n8n, Git |
 
@@ -27,7 +27,7 @@ A system design generator that converts raw ideas into infrastructure blueprints
 * **Registry:** Features a public template library allowing users to publish and share architectural patterns.
 * * [Visit ideatosystem.in](https://ideatosystem.in)
 
-### GetVik (FOUNDER)
+### Getvik (FOUNDER)
 **Status:** Live | **Type:** Digital Marketplace
 A government-registered creator marketplace for India with real users.
 * **Core:** Facilitates the sale of digital assets with instant payout settlements.

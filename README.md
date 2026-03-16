@@ -19,8 +19,6 @@ I specialize in the **Next.js** and **Node.js** ecosystem, with a growing focus 
 
 ## Projects
 
-### Monilog SDK
-
 ### Ideatosystem
 **Status:** In Development | **Type:** System Design tool.
 A system design generator that converts raw ideas into infrastructure blueprints.
@@ -36,6 +34,7 @@ A government-registered creator marketplace for India with real users.
 * **Tech:** Integrated UPI payment gateways for seamless INR transactions.
 * [Visit Getvik.com](https://getvik.com)
 
+### Monilog SDK
 **Status:** Live | **Type:** Open Source SDK
 A high-performance, middleware-based logger for Node.js applications.
 * **Core:** Automatically monitors backend logs and handles rotation to prevent disk exhaustion.

@@ -20,7 +20,7 @@ I specialize in the **Next.js** and **Node.js** ecosystem, with a growing focus 
 ## Projects
 
 ### Ideatosystem
-**Status:** In Development | **Type:** System Design tool.
+**Status:** Live | **Type:** System Design tool.
 A system design generator that converts raw ideas into infrastructure blueprints.
 * **AI Engine:** Automates the creation of system architecture diagrams from natural language inputs.
 * **Editor:** Includes a manual builder for custom adjustments and fine-tuning.

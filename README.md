@@ -19,20 +19,29 @@ I specialize in the **Next.js** and **Node.js** ecosystem, with a growing focus 
 
 ## Projects
 
+### Monilog SDK
+
 ### Ideatosystem
 **Status:** In Development | **Type:** System Design tool.
 A system design generator that converts raw ideas into infrastructure blueprints.
 * **AI Engine:** Automates the creation of system architecture diagrams from natural language inputs.
 * **Editor:** Includes a manual builder for custom adjustments and fine-tuning.
 * **Registry:** Features a public template library allowing users to publish and share architectural patterns.
-* * [Visit ideatosystem.in](https://ideatosystem.in)
+* [Visit ideatosystem.in](https://ideatosystem.in)
 
 ### Getvik (FOUNDER)
 **Status:** Live | **Type:** Digital Marketplace
 A government-registered creator marketplace for India with real users.
 * **Core:** Facilitates the sale of digital assets with instant payout settlements.
 * **Tech:** Integrated UPI payment gateways for seamless INR transactions.
-* [Visit GetVik.com](https://getvik.com)
+* [Visit Getvik.com](https://getvik.com)
+
+**Status:** Live | **Type:** Open Source SDK
+A high-performance, middleware-based logger for Node.js applications.
+* **Core:** Automatically monitors backend logs and handles rotation to prevent disk exhaustion.
+* **Alerting:** Provides real-time Slack notifications for 4xx and 5xx errors.
+* **Setup:** Zero-config integration for Express with full TypeScript support.
+* [GitHub Repository](https://github.com/NikhilDhaliya/logger-sdk)
 
 ### GrindShame
 **Status:** Live | **Type:** Developer Productivity

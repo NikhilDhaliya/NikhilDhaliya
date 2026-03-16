@@ -25,7 +25,7 @@ A system design generator that converts raw ideas into infrastructure blueprints
 * **AI Engine:** Automates the creation of system architecture diagrams from natural language inputs.
 * **Editor:** Includes a manual builder for custom adjustments and fine-tuning.
 * **Registry:** Features a public template library allowing users to publish and share architectural patterns.
-* [Visit ideatosystem.in](https://ideatosystem.in)
+* [Visit ideatosystem.com](https://ideatosystem.com)
 
 ### Getvik (FOUNDER)
 **Status:** Live | **Type:** Digital Marketplace

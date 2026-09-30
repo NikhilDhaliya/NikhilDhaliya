@@ -42,14 +42,8 @@ A high-performance, middleware-based logger for Node.js applications.
 * **Setup:** Zero-config integration for Express with full TypeScript support.
 * [GitHub Repository](https://github.com/NikhilDhaliya/logger-sdk)
 
-### GrindShame
-**Status:** Live | **Type:** Developer Productivity
-An accountability platform that gamifies coding consistency.
-* **Core:** Tracks user activity via **GitHub** and **Codeforces** APIs.
-* **Mechanism:** Uses social pressure ("roasts") to penalize inactivity streaks.
-* [Visit GrindShame.dev](https://grindshame.dev)
 
-> **View all projects:** [nikhildhaliya.onrender.com](https://nikhildhaliya.onrender.com)
+> **View all projects:** [nikhildhaliya.me](https://nikhildhaliya.me)
 
 ---
 
